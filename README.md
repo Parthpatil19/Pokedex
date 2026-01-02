@@ -5,19 +5,19 @@ The project is built using **Spring Boot** for the backend and **React (Vite)** 
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔍 Search Pokémon by name
-- 🎴 View random Pokémon cards
-- 📄 Detailed Pokémon information:
+-  Search Pokémon by name
+-  View random Pokémon cards
+-  Detailed Pokémon information:
   - Type
   - Abilities
   - Stats
   - Images
-- 🕘 Recent search & recommendations
-- ⚡ Fast and responsive UI
-- 🔗 REST API integration
-- 🧩 Modular and scalable architecture
+-  Recent search & recommendations
+-  Fast and responsive UI
+-  REST API integration
+-  Modular and scalable architecture
 
 ---
 Screenshots -
@@ -37,8 +37,9 @@ Ensure the following are installed:
 ---
 
 ### 2️⃣ Clone the Repository
-```bash
+```
 git clone (https://github.com/Parthpatil19)
+
 
 3️⃣ Run the Backend (Spring Boot)
 Navigate to the backend directory
